@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emna Ghzayel</h1>
 <h3 align="center">A passionate Junior Software engineer, DevOps and Cloud Enthusiast</h3>
-![](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)![software dev](https://github.com/Emnaghz/Emnaghz/assets/79906163/8d368f9a-ec67-4425-b4d9-230cef79e5a1)
-
-![Uploading software dev.gif…]()
+![](https://drive.google.com/file/d/177M4wykqZZxEXe17iJl6zUFfxT56nUY2/view?usp=drive_link)
 
 
 
