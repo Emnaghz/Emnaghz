@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud (AWS) and DevOps tools**
 
-- 🤝 I’m looking for great opportunities **in DevOPs and Cloud fields**
+- 🤝 I’m looking for great opportunities **in DevOps and Cloud fields**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Emnaghz](https://github.com/Emnaghz)
 
