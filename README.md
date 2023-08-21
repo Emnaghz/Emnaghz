@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emna Ghzayel</h1>
 <h3 align="center">A passionate Junior Software engineer, DevOps and Cloud Enthusiast</h3>
-![](https://drive.google.com/file/d/177M4wykqZZxEXe17iJl6zUFfxT56nUY2/view?usp=drive_link)
- 
 
 
 <h3 align="left">Languages and Tools:</h3>
