@@ -22,6 +22,7 @@
 <a href="https://linkedin.com/in/linkedin.com/in/emna-ghzayel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/emna-ghzayel/" height="30" width="40" /></a>
 <a href="https://medium.com/@emnaghzaiel176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emnaghzaiel176" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/emnaghzaiel176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="emnaghzaiel176" height="30" width="40" /></a>
+  ![Profile]([https://img.shields.io/badge/javascript](https://emnaghz.github.io/personal-portfolio/#about)-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
